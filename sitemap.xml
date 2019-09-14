@@ -33,12 +33,17 @@
   </url>
   
   <url>
-    <loc>/post/machine-learning/</loc>
-    <lastmod>2019-08-23T19:13:57-05:00</lastmod>
+    <loc>/post/blogdown-tutorial/</loc>
+    <lastmod>2019-09-13T22:17:24-05:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2019-09-13T22:17:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/machine-learning/</loc>
     <lastmod>2019-08-23T19:13:57-05:00</lastmod>
   </url>
   
